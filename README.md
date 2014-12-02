@@ -5,7 +5,7 @@ Project 2 for CMU Fall 2011 Databases Course
 
 This project with done with Bill Ge for the Fall 2011 Databases Course at Carnegie Mellon University.
 
-This project provides APIs that applications can use to index large amounts of data.
+This project was written from the ground up and provides APIs that applications can use to index large amounts of data.
 
 The APIs support:
 - insertion, search, removal of items while maintaining the index
